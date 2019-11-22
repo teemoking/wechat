@@ -1,0 +1,18 @@
+/**index.wxss**/
+text{
+  text-align: center;
+}
+page{
+  display: flex;
+  flex-direction: column;
+}
+
+.result{
+  width:90%;
+  height: 3em;
+  background-color:#8b572a;
+  padding:4px;
+  border-radius:5px;
+  text-align: center;
+  margin:220rpx auto;
+}

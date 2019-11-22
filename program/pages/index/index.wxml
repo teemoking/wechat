@@ -1,0 +1,9 @@
+<!--index.wxml-->
+<view class="container">
+    <text class="title">一秒钟</text>
+    <text class="result">{{result}}</text>
+  <view class="puch-btn" id="push_btn" catchtouchstart="push_start" catchtouchend="push_end">
+    <icon type="circle" size="45" color="orange"/> 
+  </view>
+  <button bindtap="bindRoute">路由</button>
+</view>

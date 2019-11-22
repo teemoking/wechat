@@ -1,0 +1,3 @@
+<!--pages/route/route.wxml-->
+<text>pages/route/route.wxml</text>
+<text>{{option_id}}</text>
